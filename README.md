@@ -46,7 +46,7 @@ Leave this terminal running. Now in new terminal run command.
  
 `cargo run` 
 
-from directory `stm32-compass/compass`
+from directory `stm32f3-compass/compass`
 
 Then we will be in gdb terminal. Now execute command:
 
